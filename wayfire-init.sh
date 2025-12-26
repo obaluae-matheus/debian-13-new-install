@@ -193,7 +193,7 @@ command_terminal = kitty
 # Note: Add mode=run or mode=drun to ~/.config/wofi/config.
 # You can also specify the mode with --show option.
 binding_launcher = <super> <shift> KEY_ENTER
-command_launcher = rofi -show run -theme windows11
+command_launcher = rofi -show run -theme sidebar
 
 # Screen locker
 # https://github.com/swaywm/swaylock
