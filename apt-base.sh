@@ -42,7 +42,9 @@ apt install -y \
     fonts-hack-ttf \
     fonts-jetbrains-mono \
     zip \
-    gedit
+    gedit \
+    pulseaudio \
+    pavucontrol
     
  # Cache
  fc-cache -fv
